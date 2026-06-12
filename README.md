@@ -31,4 +31,4 @@ Abaixo você pode ver um resumo das minhas contribuições e principais linguage
 ---
 
 ### 📫 Conecte-se comigo
-[![LinkedIn](https://www.linkedin.com/in/matheusdgomes/)](LINK_DO_SEU_LINKEDIN)
+[(https://www.linkedin.com/in/matheusdgomes/)](LINK_DO_SEU_LINKEDIN)
