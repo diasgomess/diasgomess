@@ -25,7 +25,6 @@ Estudante de Sistemas de Informação na FIAP e Trainee de Engenharia de Dados.
 Abaixo você pode ver um resumo das minhas contribuições e principais linguagens utilizadas:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=diasgomess&show_icons=true&theme=tokyonight&include_all_commits=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diasgomess&layout=compact&theme=tokyonight" height="150" />
 </p>
 
