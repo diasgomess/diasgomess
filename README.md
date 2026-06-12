@@ -25,11 +25,11 @@ Estudante de Sistemas de Informação na FIAP e Trainee de Engenharia de Dados.
 Abaixo você pode ver um resumo das minhas contribuições e principais linguagens utilizadas:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=diasgomess&show_icons=true&theme=tokyonight&include_all_commits=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diasgomess&layout=compact&theme=tokyonight" height="150" />
 </p>
 
 ---
 
 ### 📫 Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_DO_SEU_LINKEDIN)
+[![LinkedIn](https://www.linkedin.com/in/matheusdgomes/)](LINK_DO_SEU_LINKEDIN)
